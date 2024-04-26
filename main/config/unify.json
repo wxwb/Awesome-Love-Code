@@ -1,0 +1,27 @@
+{
+    "force_refresh":0,
+    "source": "https://gitee.com/wxbtt/bbtv/raw/master/bbtv.json",
+    "app_show_dialog": true,
+    "jar_show_dialog": true,
+    "app_require_password": false,
+    "jar_require_password": true,
+    "app_password": "240420",
+    "jar_password": "240420",
+    "app_message": "本APP以及「涛哥工作室」均为免费开源项目，仅供测试，请勿付费购买！ 播放时若出现广告均为三方插入, 与本公众号无关，请勿上当!",
+    "jar_message": "涛哥出品-必属精品",
+    "filter": [
+        "公众号",
+        "神秘的哥哥们",
+        "|",
+        "｜",
+        "防失联",
+        "关注",
+        "【",
+        "】",
+        "┃ "
+    ],
+    "prefix": "★蓓蓓影院★",
+    "title": "「涛哥工作室」出品",
+    "picture": "https://www.bestpvp.site/static/img/%E6%8F%92%E5%85%9C.png",
+    "link": "https://www.bestpvp.site/"
+}
